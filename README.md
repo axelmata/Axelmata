@@ -53,9 +53,8 @@
 
 <br clear="both">
 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/axelmata/Axelmata/output/github-contribution-grid-snake.svg" />  
-  <br/><br/><br/>
-</div>
+
+  <img src="https://raw.githubusercontent.com/axelmata/axelmata/output/snake.svg" alt="Snake animation" /> 
+  
 
 ###
